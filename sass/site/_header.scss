@@ -1,0 +1,49 @@
+.site-header {
+	margin-bottom: 3em;
+	h1 {
+		text-align:center;
+	}
+	p {
+		color: $gray-800;
+	}
+}
+.blog {
+	.site-header {
+	margin-bottom: 0;
+	}
+}
+.navbar-brand {
+	a {
+	color: $white;
+	}
+}
+.navbar {
+	padding: 0.5rem 1rem;
+	z-index: 2;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.site-content-sticky {
+  padding-top: 50px;
+}
+
+
+.header-contact{
+	text-align: left;
+}
+.header-social{
+	text-align: right;
+}
+@media (max-width: 576px){
+	.site-header {
+		margin-bottom:1rem;
+	}
+	.site-header h1 {
+		font-size:1.5rem;
+	}
+}
