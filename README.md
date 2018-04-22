@@ -1,7 +1,5 @@
-johndeanfield - Bootstrap 4 WordPress Starter Theme
+johndeanfield - Bootstrap 4 WordPress Theme
 ===
-
-johndeanfield is _s with Bootstrap 4. 
 
 Here are some of the other more interesting things you'll find within this theme:
 
@@ -15,7 +13,3 @@ Here are some of the other more interesting things you'll find within this theme
 * Organized Sass files that include Bootstrap 4 and Font Awesome.
 * Licensed under GPLv2 or later. :) Use it to make something cool.
 
-Getting Started
----------------
-
-You can use johndeanfield as a starter theme for a WordPress theme you are building or simply use the theme as is. 
